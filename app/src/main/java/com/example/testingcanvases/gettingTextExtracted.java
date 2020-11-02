@@ -19,6 +19,7 @@ public class gettingTextExtracted extends AsyncTask<Void,Void,Void> {
     @Override
     protected Void doInBackground(Void... voids) {
 
+
         URL url = null;
         HttpURLConnection httpURLConnection = null;
 
